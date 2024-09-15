@@ -9,23 +9,19 @@ I'm a passionate Data Analyst and Scientist dedicated to transforming data into 
 - **Data Visualization** 📈: Creating intuitive and interactive dashboards using Power BI and other visualization libraries.
 
 ## Skills
-- **Languages**: Python, SQL, R
-- **Tools**: Power BI, pandas, numpy, matplotlib, seaborn, scikit-learn, TensorFlow, Power Automate
+- **Languages**: Python, SQL
+- **Tools**: Power BI, pandas, numpy, matplotlib, seaborn, scikit-learn, Power Automate
 
-## Education
-- **PGDM in Big Data Analytics** from Adani Institute of Digital Technology Management
-- **Bachelor of Computer Applications** from L J College of Computer Applications, Gujarat University
+## Currently Exploring
+- 📚 New techniques in data science and machine learning
+- 🌐 Innovative data visualization methods
 
-## Extracurricular Activities
-- 🏏 Captained the College Cricket team in the Gujarat University Inter-College Tournament.
-- 🗣️ Participated in debate competitions, showcasing strong analytical and communication skills.
-
-## Personal Interests
-- **Languages**: Fluent in English, Hindi, Maithili, and Gujarati
-- **Hobbies** 📚: Reading books and playing cricket
+## Looking to Collaborate On
+- 🤝 Data-driven projects that make a real-world impact
+- 🧠 Research in machine learning
 
 ## Let's Connect
-- LinkedIn: 
+- LinkedIn: www.linkedin.com/in/harsh-jha-bb11b2252
 - Email: harshjha1702@gmail.com
 
 
